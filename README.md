@@ -1,5 +1,4 @@
 
-![GSCache Header](./img/header.jpg)
 > ## GSCache: Real-Time Radiance Caching for Volume Path Tracing using 3D Gaussian Splatting
 > [David Bauer](https://davidbauer.me), [Qi Wu](https://wilsoncernwq.github.io/), [Hamid Gadirov](https://hamidgadirov.github.io), [Kwan-Liu Ma](https://www.cs.ucdavis.edu/~ma/index.html)  
 >_IEEE VIS 2025_  
